@@ -1,0 +1,133 @@
+{
+ "signatures": [
+  {
+   "keyid": "1e9c0a054bc4c250ed9648e1e4d92f7ab3e1c30791cdf92e0ec8215a403525c7",
+   "sig": "5e3ac3cf27cea9a741edce393581e620596fde64a2735e5ace5074bf7f4b878be7a0ffbca9f6d1a8eea432180e574f86c1fa653d9f1ddf749ba4bc49416c9ff8da9633e6cfd545c120dbedae92e162d5b9158a53852009036b47133e238f62f70c712f0cd87696f5f3c057f1ad2c43ba3e8c410ef1608195895bb4364736d5e6cfbdac0347868990a9f85120dbeed4c27e03f324caa10bc0e0a4c75536ed806ecebd264d4ea8c61c486e4c9d4ed245535c4a65c1b027ae5af45481b750c8f710424ad8ab8d2303a7690b089d394737e53ba528cb3cc6a7bb148047f1241e77d38430ec8e680c60d708d067d6ddbeb961891a74ffc261b1ef75f5ec5778937ca83f69c0ec1ff391c9a2eed46ea316df87a3b2c31a3bc7dd5077a230681e6bf40309f3f4bea779447754142372000326c4c3653f677590a57f1e046061f44606f76d1f63a87031a5b9c1495f6f878359103d6aed20de037451dd070a044430f94a2653bc9cabfdd508cf220ca664908a95cfe372c2dc9f6f1e640ea5185d83d163"
+  }
+ ],
+ "signed": {
+  "_type": "layout",
+  "expires": "2022-01-02T22:00:04Z",
+  "inspect": [
+   {
+    "_type": "inspection",
+    "expected_materials": [],
+    "expected_products": [],
+    "name": "zip",
+    "run": [
+     "unzip",
+     "pub.zip"
+    ]
+   }
+  ],
+  "keys": {
+   "1e9c0a054bc4c250ed9648e1e4d92f7ab3e1c30791cdf92e0ec8215a403525c7": {
+    "keyid": "1e9c0a054bc4c250ed9648e1e4d92f7ab3e1c30791cdf92e0ec8215a403525c7",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAugLY5ICzm+6Vu4Ut1H17\nHUpxMRpwJ7RW8vn+jeNj+cGm5PjgGkhBEoOfVyV7JANKMv1cgSvZ9h75MZWwa2nR\neYmMR/pDjTBH15XZI86blzXLFiA5AuLqr3Zl58GnauUvh5mJlXA06dXVlRPW8ytS\nfTZPlD7yIbXEI/iGCtmYLDttMcqRF6YVgclGrBaFXwSgx6eIuUlaATtNSry+exZz\n9Ej6uhsReOAV9CudSEg6fFG2HpR0ACS+80lVVNQL8AMaJjNEBM8sb14Gx4FjHXmg\nvSrKa5xcqAsGrJCWPPtkKDtVIkMBOhbR+2M3fT5UakTyrARfnvWqchYJf62/A8/a\nbNpdLmiblH9nmwMsiFI2Z9vgNtUptdwT9dKppf/Qn3D4BjXHb3RnVFxQHYZMUGhm\nXDdKcyYFdZqFoJQYc1waRz3uFgQhwkwH6FtnAtqFXKhee1XUl6ldLL9P9sVt/rPI\n0tsBH4GBpVnIJyUDCLC0lIUGnOb2zen4XKe9DIgIW0NZAgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   },
+   "981b688f2cb32c8fe2d53153499188cb337103050e30e8b1a9193309ebabc026": {
+    "keyid": "981b688f2cb32c8fe2d53153499188cb337103050e30e8b1a9193309ebabc026",
+    "keyid_hash_algorithms": [
+     "sha256",
+     "sha512"
+    ],
+    "keytype": "rsa",
+    "keyval": {
+     "private": "",
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA201Fp+ZPf9bUNrtBVncl\nyizH0OZxQtKqIze920IZlHt6zPUDN4emuESxk26WRpihS5V13ky6IaterQJmqcoA\nD5hhsjGGL4oGz0UW0E+M92SiuylhKl8NvNdM+5eiwjPnes92KQsfmJiab55RNWbB\nA3VTKh+9OF/eS1m0t67elAxSDc8WNmiXGxcmWvD6jhFxXk/Y6P2SlGPXDxs7NGUA\ndWijicJ9Yj+ocNXMVDVDZ8y3O1++sSE5HqbMfXkyxOe7WAZl4Cwbb0c31rqK1niz\nl39ENd3QQxFSUKnPobRj9NHFirm9YAAFA455YK4RhfcMUAcbywsd3jiJfieoYJJG\nZdanAQmbaCWlTVcxi6CjZazs6QikdjiOoCoM3cAgqvL6wzNfT/HJO0bE6v/YmAOp\nXf5Y1PUq2ycBuys7XFVt8z9eXwA2x/IiAMfqIvvGFqzUcUemqUYtdtFzMkYempKl\ntufOZqfT3t0dnalgAqpf3z1/WzySGgrh1A4V0d0nmFLvAgMBAAE=\n-----END PUBLIC KEY-----"
+    },
+    "scheme": "rsassa-pss-sha256"
+   }
+  },
+  "readme": "",
+  "steps": [
+   {
+    "_type": "step",
+    "expected_command": [
+     "git",
+     "commit",
+     "-S"
+    ],
+    "expected_materials": [],
+    "expected_products": [
+     [
+      "CREATE",
+      "*"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "commit",
+    "pubkeys": [
+     "1e9c0a054bc4c250ed9648e1e4d92f7ab3e1c30791cdf92e0ec8215a403525c7"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [
+     "dotnet",
+     "publish",
+     "-o",
+     "pub"
+    ],
+    "expected_materials": [
+     [
+      "MATCH",
+      "*",
+      "WITH",
+      "PRODUCTS",
+      "FROM",
+      "commit"
+     ]
+    ],
+    "expected_products": [
+     [
+      "CREATE",
+      "pub/*"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "publish",
+    "pubkeys": [
+     "981b688f2cb32c8fe2d53153499188cb337103050e30e8b1a9193309ebabc026"
+    ],
+    "threshold": 1
+   },
+   {
+    "_type": "step",
+    "expected_command": [],
+    "expected_materials": [],
+    "expected_products": [
+     [
+      "CREATE",
+      "pipeline.json"
+     ],
+     [
+      "DISALLOW",
+      "*"
+     ]
+    ],
+    "name": "sast",
+    "pubkeys": [
+     "981b688f2cb32c8fe2d53153499188cb337103050e30e8b1a9193309ebabc026"
+    ],
+    "threshold": 1
+   }
+  ]
+ }
+}

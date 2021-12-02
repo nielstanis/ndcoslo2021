@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- No debug symbols -->
+    <!-- <DebugSymbols>false</DebugSymbols>
+    <DebugType>None</DebugType> -->
+    <!-- Change relative path to source -->
+    <!-- <AppOutputBase>$(MSBuildProjectDirectory)\</AppOutputBase>
+    <PathMap>$(AppOutputBase)=/tmp/source</PathMap> -->
+  </PropertyGroup>
+
+</Project>
